@@ -47,7 +47,7 @@ function Index() {
         .
       </p>
       <br />
-      <h2>The date according to Node.js (TypeScript) is:</h2>
+      <h2>Contact: dsnx@yahoo.com RIGHTS:ALL date is:</h2>
       <p>{date ? date : 'Loading date...'}</p>
     </main>
   );
